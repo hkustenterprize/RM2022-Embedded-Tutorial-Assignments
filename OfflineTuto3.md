@@ -4,9 +4,8 @@
 
 1. **Time:** Oct 16th, 15:30-17:30 (GMT+8)
 2. **Topic:**
-   * Basic Embedded knowledge
-   * GPIO
-   * Timer
+   * Interrupt
+   * USART
 3. **Mode of Delievery:** F2F + Zoom (mixed mode)
 4. **Location:** **Library LG4 Multi-function room**
 5. **Zoom Link:** https://zoom.us/j/6557236807?pwd=UTEvR0tXeG83dTVaU0V2Q1VYY1VRUT09
