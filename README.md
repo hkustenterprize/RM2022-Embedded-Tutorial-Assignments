@@ -25,10 +25,12 @@ Offline session 1: Git&C++:
 Offline session 2: Embedded - GPIO   
 [Info](https://github.com/hkustenterprize/RM2022-Embedded-Tutorial-Assignments/blob/master/OfflineTuto2.md)  
 [Recording](https://drive.google.com/file/d/1BGXNMRVRHouamNjjZW-4Rgk1-rXZarHk/)  
-[Slides](https://docs.google.com/presentation/d/1J4IOcnCIMlObgepTfUHqc1EhSssqZ3U0/edit?usp=sharing&ouid=117550537966876935671&rtpof=true&sd=true)  
+[Slides](https://docs.google.com/presentation/d/1O8yXFxIBCg9iYEhwrZpitY_jyymWPa9E/edit?usp=sharing&ouid=117550537966876935671&rtpof=true&sd=true)  
 
 Offline session 3: Embedded - USART:     
 [Info](https://github.com/hkustenterprize/RM2022-Embedded-Tutorial-Assignments/blob/master/OfflineTuto3.md)  
+[Recording](https://drive.google.com/file/d/10VWDDLSL_vr2PbxgupRfBH98NMIKkD65/)  
+[Slides](https://docs.google.com/presentation/d/1-1Lvldg-Cocqsy0BBfVN2T8nzIEB2tNu/edit?usp=sharing&ouid=117550537966876935671&rtpof=true&sd=true)  
 
 ## 2. Tutorial Resources
 1. Online videos and PPT  
