@@ -16,7 +16,7 @@ The tutorial will be a combination of online and offline, please make sure you h
 |**10.16 15:30-17:30**  | Offline session 3: Embedded: USART                      | **Library LG4** |
 |10.20 - 10.26          | Finish Embedded video 3 (PID)                           | N/A         |
 |**10.23 13:00-15:00**  | Offline session 4: Embedded: Turn On Motor              | Room 4504   |
-|**Before 10.26 23:59** | DDL of your Embedded demo assignment                    | N/A        |
+|**Before 10.29 23:59** | DDL of your Embedded demo assignment                    | N/A        |
 
 Offline session 1: Git&C++:  
 [Info](https://github.com/hkustenterprize/RM2022-Embedded-Tutorial-Assignments/blob/master/OfflineTuto1.md)  
